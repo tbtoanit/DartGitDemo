@@ -12,7 +12,7 @@ void main() {
     string Name = 'Nguyen Trung Thanh' ;
     print('Diện tích của hình tròn có bán kính $radius là: $area');
   }
-  /// Hieu da push 122345
+  /// Hieu da push xong
 
 
 }
