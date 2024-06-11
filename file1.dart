@@ -10,6 +10,7 @@ void main() {
   } else {
     double area = pi * radius * radius;
     string Name = 'Nguyen Trung Thanh' ;
+    // in ra dien tich
     print('Diện tích của hình tròn có bán kính $radius là: $area');
   }
   /// Hieu da push xong
