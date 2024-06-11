@@ -15,8 +15,6 @@ void main() {
   } else {
     // Tính toán diện tích của hình tròn
     double area = pi * radius * radius;
-
-    // In ra diện tích
     print('Diện tích của hình tròn có bán kính $radius là: $area');
   }
 }
