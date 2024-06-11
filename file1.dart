@@ -9,6 +9,7 @@ void main() {
     print('Giá trị nhập vào không hợp lệ.');
   } else {
     double area = pi * radius * radius;
+    string Name = 'Nguyen Trung Thanh' ;
     print('Diện tích của hình tròn có bán kính $radius là: $area');
   }
   /// Hieu da push 122345
